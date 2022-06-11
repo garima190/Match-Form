@@ -1,0 +1,15 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "team1": "Fighters",
+      "team2": "Conquerers",
+      "type": "Friendly",
+      "name": "Battle",
+      "start": "7/6/2022 11am",
+      "end": "7/6/2022 1pm",
+      "loc": "Delhi, India",
+      "comments": "none"
+    }
+  ]
+}
